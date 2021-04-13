@@ -72,3 +72,4 @@ onetag.com, 59aa7be4921bac8, RESELLER
 advertising.com, 28246, RESELLER
 sonobi.com, eaec54c63f, RESELLER, d1a215d9eb5aee9e
 video.unrulymedia.com, 1605779867, RESELLER
+facebook.com, 421278522074431, DIRECT, c3e20eee3f780d68
